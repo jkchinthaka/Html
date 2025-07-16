@@ -23,7 +23,6 @@ body{
     width: 100%;
     height: 180px;
     object-fit: cover;
-
 }
 .card-content{
     padding: var(--spacing);
@@ -32,13 +31,11 @@ body{
     font-size: 1.3rem;
     margin-bottom: 0.5rem;
     color: var(--primary);
-
 }
 .card-desc{
     font-size: 0.35rem;
     color: var(--secondry);
     margin-bottom: var(--spacing);
-
 }
 .author-info{
     display: flex;
